@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80210179516",
+    "firebase_url": "https://kicksharingapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kicksharingapp",
+    "storage_bucket": "kicksharingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80210179516:android:f404785cbbb102e208a7b9",
+        "android_client_info": {
+          "package_name": "com.example.kicksharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80210179516-40s8ood99p5lcsaj9qsdcomi37te4nsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRxX68zBUMzj2uE90dHxD-md9i8zOAbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80210179516-40s8ood99p5lcsaj9qsdcomi37te4nsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
